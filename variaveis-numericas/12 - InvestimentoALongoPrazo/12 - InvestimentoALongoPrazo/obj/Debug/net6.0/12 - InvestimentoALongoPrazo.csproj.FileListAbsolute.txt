@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\bin\Debug\net6.0\12 - InvestimentoALongoPrazo.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\bin\Debug\net6.0\12 - InvestimentoALongoPrazo.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\bin\Debug\net6.0\12 - InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\bin\Debug\net6.0\12 - InvestimentoALongoPrazo.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\bin\Debug\net6.0\12 - InvestimentoALongoPrazo.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\refint\12 - InvestimentoALongoPrazo.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\12 - InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\12 - InvestimentoALongoPrazo\12 - InvestimentoALongoPrazo\obj\Debug\net6.0\ref\12 - InvestimentoALongoPrazo.dll

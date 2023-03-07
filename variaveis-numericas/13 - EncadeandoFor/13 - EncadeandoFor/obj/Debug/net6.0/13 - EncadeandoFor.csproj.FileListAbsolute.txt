@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\bin\Debug\net6.0\13 - EncadeandoFor.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\bin\Debug\net6.0\13 - EncadeandoFor.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\bin\Debug\net6.0\13 - EncadeandoFor.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\bin\Debug\net6.0\13 - EncadeandoFor.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\bin\Debug\net6.0\13 - EncadeandoFor.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\refint\13 - EncadeandoFor.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\13 - EncadeandoFor.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\13 - EncadeandoFor\13 - EncadeandoFor\obj\Debug\net6.0\ref\13 - EncadeandoFor.dll

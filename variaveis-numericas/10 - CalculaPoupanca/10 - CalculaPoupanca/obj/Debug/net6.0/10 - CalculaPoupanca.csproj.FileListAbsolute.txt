@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\bin\Debug\net6.0\10 - CalculaPoupanca.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\bin\Debug\net6.0\10 - CalculaPoupanca.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\bin\Debug\net6.0\10 - CalculaPoupanca.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\bin\Debug\net6.0\10 - CalculaPoupanca.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\bin\Debug\net6.0\10 - CalculaPoupanca.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\refint\10 - CalculaPoupanca.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\10 - CalculaPoupanca.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\10 - CalculaPoupanca\10 - CalculaPoupanca\obj\Debug\net6.0\ref\10 - CalculaPoupanca.dll

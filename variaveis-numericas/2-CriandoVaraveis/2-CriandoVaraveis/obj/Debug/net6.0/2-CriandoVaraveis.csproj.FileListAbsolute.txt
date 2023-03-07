@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\bin\Debug\net6.0\2-CriandoVaraveis.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\bin\Debug\net6.0\2-CriandoVaraveis.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\bin\Debug\net6.0\2-CriandoVaraveis.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\bin\Debug\net6.0\2-CriandoVaraveis.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\bin\Debug\net6.0\2-CriandoVaraveis.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\refint\2-CriandoVaraveis.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\2-CriandoVaraveis.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\2-CriandoVaraveis\2-CriandoVaraveis\obj\Debug\net6.0\ref\2-CriandoVaraveis.dll

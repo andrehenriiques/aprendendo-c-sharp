@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\refint\ConversoesEOutrosTipos.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\ConversoesEOutrosTipos\ConversoesEOutrosTipos\obj\Debug\net6.0\ref\ConversoesEOutrosTipos.dll

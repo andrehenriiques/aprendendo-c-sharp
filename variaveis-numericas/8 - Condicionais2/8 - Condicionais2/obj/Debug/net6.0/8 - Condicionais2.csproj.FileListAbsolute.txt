@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\refint\8 - Condicionais2.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\8 - Condicionais2\8 - Condicionais2\obj\Debug\net6.0\ref\8 - Condicionais2.dll

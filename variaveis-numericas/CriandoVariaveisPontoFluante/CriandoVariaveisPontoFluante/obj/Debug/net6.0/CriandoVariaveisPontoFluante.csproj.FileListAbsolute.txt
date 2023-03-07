@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\bin\Debug\net6.0\CriandoVariaveisPontoFluante.exe
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\bin\Debug\net6.0\CriandoVariaveisPontoFluante.deps.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\bin\Debug\net6.0\CriandoVariaveisPontoFluante.runtimeconfig.json
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\bin\Debug\net6.0\CriandoVariaveisPontoFluante.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\bin\Debug\net6.0\CriandoVariaveisPontoFluante.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\refint\CriandoVariaveisPontoFluante.dll
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.pdb
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\CriandoVariaveisPontoFluante.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documentos\curso-alura\variaveis-numericas\Curso1_CSharp\CriandoVariaveisPontoFluante\CriandoVariaveisPontoFluante\obj\Debug\net6.0\ref\CriandoVariaveisPontoFluante.dll
