@@ -94,5 +94,21 @@ namespace bytebank_ATENDIMENTO.bytebank.Util
                 if (_itens[i] != null)  Console.WriteLine($"Indice{i} = Conta: {_itens[i].Conta} - AG: {_itens[i].Numero_agencia}");
             }
         }
+
+        public ContaCorrente RecuperarContaNoIndex(int indice)
+        {
+            if(indice<0 || indice>= Tamanho)
+            {
+                throw new ArgumentException("Indice precisa ser maior que 0 ", nameof(indice));
+            }
+            else
+            {
+                return _itens[indice];
+            }
+        }
+
+        public int Tamanho { get { return _proximaPosicao; } }
+
+        public ContaCorrente this[int indice] { get { return RecuperarContaNoIndex(indice); } }
     }
 }
