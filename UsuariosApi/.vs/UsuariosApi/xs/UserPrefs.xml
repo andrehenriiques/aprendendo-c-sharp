@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A5C05ADE-2215-4239-9E6B-72E1F9A75460}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UsuariosApi" expanded="True">
+            <Node name="UsuariosApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Dtos" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True">
+                <Node name="20240117012528_Criando Usuario.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UsuariosApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
